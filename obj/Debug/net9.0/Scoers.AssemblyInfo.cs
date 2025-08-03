@@ -14,6 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Scoers")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+57d65956469b54400ea79376c835cc8138dad1a1")]
 [assembly: System.Reflection.AssemblyProductAttribute("Scoers")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Scoers")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
